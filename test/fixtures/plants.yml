@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  image: MyString
+  give_it_water: 1
+  give_it_sun: 1
+  give_it_siblings: 1
+  give_it_air: 1
+
+two:
+  name: MyString
+  image: MyString
+  give_it_water: 1
+  give_it_sun: 1
+  give_it_siblings: 1
+  give_it_air: 1

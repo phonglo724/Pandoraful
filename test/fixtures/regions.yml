@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  creature: one
+  plant: one
+  region: MyString
+  region_image: MyString
+  clan: MyString
+
+two:
+  creature: two
+  plant: two
+  region: MyString
+  region_image: MyString
+  clan: MyString
