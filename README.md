@@ -70,7 +70,7 @@ To-do list:
 * Create modules for each category to separate code
 
 ## Status
-Project is: 90% finished and DRY out code.
+Project is: 100% finished
 
 ## Inspiration
 The inspiration came from my love for the creativity and vibrate colors in the movie, Avatar. Plus, the upcoming movie to be released in December 2022: "Avatar 2: Return to Pandora"!
